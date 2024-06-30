@@ -7,7 +7,7 @@ export function Headline(props) {
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
-          <code className={styles.code}>src/app/{props.page}</code>
+          <code className={styles.code}>src/app/{props.page}page.js</code>
         </p>
       </div>
     </div>

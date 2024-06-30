@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <main className={styles.main}>
-        <Headline title="Index Page" page="page.js" />
+        <Headline title="Index Page" />
 
         <Links />
 

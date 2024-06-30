@@ -7,7 +7,7 @@ export default function About() {
   return (
     <div>
       <main className={styles.main}>
-        <Headline title="About Page" page="about/page.js" />
+        <Headline title="About Page" page="about/" />
 
         <Links />
       </main>
